@@ -7,7 +7,7 @@
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Forward-Clients",
+    "repository": "https://github.com/samoxds/Forward-Clients",
     "website": "https://telegram.dog/",
     "success_url": "https://t.me/",
     "env": {
